@@ -1,0 +1,66 @@
+img{
+    border-radius: 50%;
+    width:350px;
+    background-color: black;
+}
+
+body{
+    background-color:#f8f5f1
+}
+
+.para{
+    color:#7eca9c;
+    font-size:20px;
+}
+
+li{
+    font-size: 25px;
+    color:#276678
+}
+
+hr{
+    width: 10%;
+    border-top: dotted;
+    color:#8ab6d6
+}
+
+br{
+    margin: 20px;
+}
+
+#name{
+    font-size: 50px;
+    color:#e2703a;
+}
+
+h2{
+    color:#e48257;
+    font-size: 30px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h1{
+    font-size:40px;
+}
+
+td{
+    font-size:20px;
+}
+
+.tableid{
+    font-size: 25px;
+    font-weight:bold
+}
+
+.tableresult{
+    font-size: 20px;
+    font-weight:medium
+}
+
+label{
+    font-size:25px;
+}
+
